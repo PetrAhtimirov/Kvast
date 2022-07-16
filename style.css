@@ -391,6 +391,7 @@ body {
 
 	.range {
 		padding-top: 57px;
+		padding-bottom: 80px;
 	}
 
 	.range h2 {
@@ -573,7 +574,7 @@ body {
 	}
 
 	.footer-page .container {
-		margin: 0 133px;
+		margin: 0 auto;
 		width: 1015px;
 	}
 
